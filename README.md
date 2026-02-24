@@ -1,8 +1,12 @@
-# Welcome to your Expo app 👋
+# Vision
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+PraxisForma Capture v1 — record, organize, annotate, and share athletic video.
 
-## Get started
+## Status
+Bootstrapped Expo app. Android APK build + sideload confirmed.
+
+## Next
+Build upload spine: record → compress → upload → list.
 
 1. Install dependencies
 
@@ -48,3 +52,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Vision
+Coaches Eye Successor.  Low cost video annotation and sharing tool for coaches
+>>>>>>> 33b12eed2119d1af5a1c6f0372097f6feb2822ff
