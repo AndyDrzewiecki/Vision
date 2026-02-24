@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native build artifacts
+ios/
+android/
+
+# EAS
+.eas/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Firebase service account keys — never commit
+google-services.json
+GoogleService-Info.plist
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Metro
+.metro-health-check*
